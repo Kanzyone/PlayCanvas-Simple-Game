@@ -137,8 +137,8 @@ _in this project:_
 </table>
 
 # Project Details
-**Play Canvas Project:** https://playcanvas.com/project/1125831/overview/simple-game **-** _**[@sheeshKAAN](https://github.com/sheeshKAAN)**_
+**Play Canvas Project:** https://playcanvas.com/project/1125831/overview/simple-game **-** _**[@Kaan Yucel](https://github.com/Kanzyone)**_
 
-**Original Project:** https://www.youtube.com/watch?v=i-cvfEW4Fq8&ab_channel=CemDemir **-** _**[@devcem](https://github.com/devcem)**_
+**Original Project:** https://www.youtube.com/watch?v=i-cvfEW4Fq8&ab_channel=CemDemir **-** _**[@Cem Demir](https://github.com/devcem)**_
 
-https://playcanvas.com/project/844075/overview/simple-game **-** _**[@devcem](https://github.com/devcem)**_
+https://playcanvas.com/project/844075/overview/simple-game **-** _**[@Cem Demir](https://github.com/devcem)**_
